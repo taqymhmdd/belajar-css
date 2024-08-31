@@ -1,0 +1,34 @@
+.menu1 {
+    background-color: blue;
+}
+.menu2 {
+    background-color: green;
+}
+.menu3 {
+    background-color: grey;
+}
+.nav {
+    background-color: yellow;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.menu1 {
+    background-color: red;
+}
+.menu2 {
+    background-color: green;
+}
+.menu3 {
+    color:black;
+    background-color: blue;
+}
+#content1 {
+    padding-top: 500px;
+}
+#content2 {
+    padding-top: 500px;
+}
+#content3 {
+    padding-top: 500px;
+}
